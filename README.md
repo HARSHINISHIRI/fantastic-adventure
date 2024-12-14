@@ -24,4 +24,5 @@ A personal story covering events, lessons, and reflections.
 - Machine Learning
 - Deep Learning
 - Artificial intelligence
-- Data analytics 
+- Data analytics
+- full stack development 
