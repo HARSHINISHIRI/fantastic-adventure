@@ -1,7 +1,7 @@
 # fantastic-adventure
 # Autobiography  
 
-Welcome to my autobiography repository! This project documents my life journey, experiences, and lessons.  
+Welcome to my autobiography repository! This documents my life journey, experiences, and lessons.  
 
 ## Table of Contents  
 - [About](#about)  
@@ -9,8 +9,7 @@ Welcome to my autobiography repository! This project documents my life journey, 
 - [skill](#skill)    
 
 ## About  
-A personal story covering events, lessons, and reflections.  
-**Purpose**: To share my journey and inspire others.  
+A personal story covering events, lessons, and reflections.    
 
 ## Project 
 - AI based traffic signal optimization 
