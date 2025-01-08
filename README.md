@@ -17,7 +17,7 @@ A personal story covering events, lessons, and reflections.
 - chatbot 
 - quivering crosswalk
 - Gesture detection
-- face dtection
+- face detection
 
 ## Skill
 - Python
